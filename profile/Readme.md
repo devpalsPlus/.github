@@ -31,9 +31,9 @@ Devpals는 주니어 개발자가 부담 없이 프로젝트에 참여하고, �
 
 #### 백엔드
 
-| [김현희](https://github.com/Kim-Hyunhee)                                       | [김난영](https://github.com/Algoruu)                                            |
+| [남도현](https://github.com/NamDoHyeon2)                                       | [정선영](https://github.com/seonyo)                                            |
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------- |
-| <img src="https://avatars.githubusercontent.com/u/96518301?v=4" width="120" /> | <img src="https://avatars.githubusercontent.com/u/126838925?v=4" width="120" /> |
+| <img src="https://avatars.githubusercontent.com/u/127714717?v=4" width="120" /> | <img src="https://avatars.githubusercontent.com/u/88700744?v=4" width="120" /> |
 
 
 <br>
@@ -41,6 +41,8 @@ Devpals는 주니어 개발자가 부담 없이 프로젝트에 참여하고, �
 ### 🗓 개발 기간
 
 ✨ 2024.12.29 - 2024.02.03 (1차 배포)
+<br>
+✨ 2024.02 ~
 
 <br>
 
