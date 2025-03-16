@@ -11,7 +11,7 @@ Devpals는 주니어 개발자가 부담 없이 프로젝트에 참여하고, �
 새싹 멤버로 시작해 프로젝트 경험을 쌓고, 점차 성장하며 나무 멤버가 되기까지, Devpals가 당신의 개발 여정을 함께합니다!
 <br>
 
-### [Devpals바로가기](https://dev.devpals.com/)
+### [Devpals바로가기](https://www.devpals.site)
 ![Group 5](https://github.com/user-attachments/assets/d66f8f2c-2d40-46c8-8bb3-dbd100ba884b)
 ![Group 6](https://github.com/user-attachments/assets/0c7db5b9-9ab4-4e52-9b1a-c5df5532dad0)
 ![Group 7](https://github.com/user-attachments/assets/3a24ee66-7f57-4f86-8234-fd6d4de0f3a8)
