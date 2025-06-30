@@ -31,9 +31,9 @@ Devpals는 주니어 개발자가 부담 없이 프로젝트에 참여하고, �
 
 #### 백엔드
 
-| [남도현](https://github.com/NamDoHyeon2)                                       | [정선영](https://github.com/seonyo)                                            |
-| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------- |
-| <img src="https://avatars.githubusercontent.com/u/127714717?v=4" width="120" /> | <img src="https://avatars.githubusercontent.com/u/88700744?v=4" width="120" /> |
+| [남도현](https://github.com/NamDoHyeon2)                                       |
+| ------------------------------------------------------------------------------ |
+| <img src="https://avatars.githubusercontent.com/u/127714717?v=4" width="120" /> |
 
 
 <br>
